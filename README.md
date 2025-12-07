@@ -120,7 +120,7 @@ My goal: Become a powerful *full-stack + ML developer* and a *strong competitive
 ---
 
 ## 🌐 Connect With Me  
-📧 *Email:* mayankrajsrivastava09@gmail.com  
+📧 *Email:* shlrjsrivastava@gmail.com  
 🔗 *LinkedIn:* https://www.linkedin.com/in/sahil-raj-srivastava-979675306
 
 <h3 align="center">✨ Thanks for Visiting — Keep Coding & Keep Growing! ✨</h3>
